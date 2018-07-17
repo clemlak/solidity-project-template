@@ -1,5 +1,5 @@
 /**
- * @dev We use a fix version of Solidity
+ * @dev We use a fixed version of Solidity
  */
 pragma solidity 0.4.24;
 
